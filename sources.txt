@@ -1,0 +1,9 @@
+# 上游 m3u 订阅源（每天北京时间 05:00 自动抓取）
+# 以 # 开头的行为注释
+https://iptv-org.github.io/iptv/countries/cn.m3u
+https://iptv-org.github.io/iptv/categories/sports.m3u
+https://iptv-org.github.io/iptv/categories/movies.m3u
+https://iptv-org.github.io/iptv/categories/news.m3u
+https://iptv-org.github.io/iptv/categories/kids.m3u
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+https://iptv-org.github.io/iptv/categories/music.m3u
