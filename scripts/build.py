@@ -40,7 +40,7 @@ CATEGORIES = [
 OTHER = ("综合其他", "others.m3u")
 
 # 需要合并"同频道多源"的分类：同一频道多条线路时输出 频道名、频道名 备用1、频道名 备用2…
-MULTI_SOURCE_CATS = {"CCTV"}
+MULTI_SOURCE_CATS = {"CCTV", "卫视"}
 
 
 def norm_name(name):
