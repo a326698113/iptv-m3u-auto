@@ -1,1 +1,41 @@
-IyBJUFRWIOmikemBk+iHquWKqOabtOaWsAoK5q+P5aSpKirljJfkuqzml7bpl7QgMDU6MDAqKiDoh6rliqjmipPlj5bkuIrmuLggbTN1IOiuoumYhea6kO+8jOajgOa1i+avj+adoea1geeahOacieaViOaAp++8iOS7heS/neeVmSAqKklQdjQg5Y+v6L6+44CB6IO95q2j5bi45Ye65rWBKiog55qE6aKR6YGT77yJ77yM5oyJ5YiG57G755Sf5oiQ5pKt5pS+5YiX6KGo5bm26Ieq5Yqo5o+Q5Lqk44CCCgojIyDmkq3mlL7liJfooagKCnwg5YiG57G7IHwg6K6i6ZiF6ZO+5o6lIHwKfC0tLS0tLXwtLS0tLS0tLS0tfAp8IOWFqOmDqCB8IGBvdXRwdXQvYWxsLm0zdWAgfAp8IENDVFYgfCBgb3V0cHV0L2NjdHYubTN1YCB8Cnwg5Y2r6KeGIHwgYG91dHB1dC93ZWlzaGkubTN1YCB8Cnwg5L2T6IKyIHwgYG91dHB1dC9zcG9ydHMubTN1YCB8Cnwg5b2x6KeGIHwgYG91dHB1dC9tb3ZpZXMubTN1YCB8Cnwg5bCR5YS/5Yqo5ryrIHwgYG91dHB1dC9raWRzLm0zdWAgfAp8IOaWsOmXu+i1hOiuryB8IGBvdXRwdXQvbmV3cy5tM3VgIHwKfCDpn7PkuZAgfCBgb3V0cHV0L211c2ljLm0zdWAgfAp8IOe6quWunuenkeaVmSB8IGBvdXRwdXQvZG9jdW1lbnRhcnkubTN1YCB8Cnwg5riv5r6z5Y+wIHwgYG91dHB1dC9obXQubTN1YCB8Cnwg5pel6Z+pIHwgYG91dHB1dC9qYXBhbl9rb3JlYS5tM3VgIHwKfCDmrKfnvo4gfCBgb3V0cHV0L3dlc3Rlcm4ubTN1YCB8Cnwg5Zyw5pa55Y+wIHwgYG91dHB1dC9sb2NhbC5tM3VgIHwKfCDnu7zlkIjlhbbku5YgfCBgb3V0cHV0L290aGVycy5tM3VgIHwKCuWcqOaSreaUvuWZqO+8iOWmgiBQb3RQbGF5ZXLjgIFWTEPjgIFUaXZpTWF0Ze+8ieS4reebtOaOpea3u+WKoOS4iui/sCBtM3Ug6ZO+5o6l5Y2z5Y+v44CCCgojIyDlt6XkvZzljp/nkIYKCjEuICoq5oqT5Y+WKirvvIhgc2NyaXB0cy9mZXRjaC5weWDvvInvvJror7vlj5YgYHNvdXJjZXMudHh0YCDkuK3nmoTkuIrmuLjorqLpmIXmupDvvIzop6PmnpAgbTN1IOW5tuWOu+mHjeOAggoyLiAqKuajgOa1iyoq77yIYHNjcmlwdHMvY2hlY2sucHlg77yJ77yaNDAg5bm25Y+R6YCQ5p2h6aqM6K+B4oCU4oCU5LuFIGBodHRwL2h0dHBzYOOAgeWfn+WQjeW/hemhu+aciSBJUHY0IOino+aekO+8iElQdjYg55u05o6l5Lii5byD77yJ44CBSFRUUCDmi4nmtYHotoXml7YgMTIg56eS5YaF6IO95Ye65pWw5o2u44CBYC5tM3U4YCDlv4XpobvlkKsgYCNFWFRNM1Vg44CC5LiN5ruh6Laz55qE55u05o6l5YmU6Zmk44CCCjMuICoq5YiG57G7KirvvIhgc2NyaXB0cy9idWlsZC5weWDvvInvvJrlnLDljLrmupDvvIjmuK/mvrPlj7Av5pel6Z+pL+asp+e+ju+8ieeahOmikemBk+S8mOWFiOaMieadpea6kOW9kuWFpeWcsOWMuuWIhuexu++8jOWFtuS9meaMiemikemBk+WQjeensOWFs+mUruivjeW9kuWFpSAxNCDkuKrliIbnsbvvvIznlJ/miJDluKYgYGdyb3VwLXRpdGxlYCDnmoQgbTN144CCCjQuICoq5a6a5pe2KirvvJpHaXRIdWIgQWN0aW9ucyDmr4/lpKkgMjE6MDAgVVRD77yI5YyX5Lqs5pe26Ze0IDA1OjAw77yJ6L+Q6KGM77yM5qOA5rWL6YCa6L+H5ZCO6Ieq5YqoIGNvbW1pdCDlm57mnKzku5PlupPjgILkuZ/lj6/lnKggQWN0aW9ucyDpobXpnaLmiYvliqjop6blj5HvvIh3b3JrZmxvd19kaXNwYXRjaO+8ieOAggoKIyMg5LiK5ri45p2l5rqQCgotIFtpcHR2LW9yZ10oaHR0cHM6Ly9naXRodWIuY29tL2lwdHYtb3JnL2lwdHYp77yI5Lit5Zu95Yy644CB5ZCE6aKY5p2Q5YiG57G75Y+K5riv5r6z5Y+wL+aXpemfqS/mrKfnvo7lnLDljLrlhazlvIDmupDvvIkKCiMjIOivtOaYjgoKLSDpopHpgZPlj6/nlKjmgKfmr4/lpKnpg73kvJrlj5jljJbvvIzlvZPml6Xmo4DmtYvpgJrov4fnmoTkuI3ku6PooajmsLjkuYXmnInmlYjjgIIKLSDku4XmlLblvZUgSVB2NCDlj6/ovr7nmoTmupDvvJtJUHY2IOa6kOW3suiiq+i/h+a7pOOAggotIOacrOmhueebruS7heWBmuWFrOW8gCBtM3Ug5rqQ55qE6IGa5ZCI5LiO5Y+v55So5oCn5qOA5rWL77yM5LiN5omY566h5Lu75L2V6KeG6aKR5YaF5a6544CCCg==
+# IPTV 频道自动更新
+
+每天**北京时间 05:00** 自动抓取上游 m3u 订阅源，检测每条流的有效性（仅保留 **IPv4 可达、能正常出流** 的频道），按分类生成播放列表并自动提交。
+
+## 播放列表
+
+| 分类 | 订阅链接 |
+|------|----------|
+| 全部 | `output/all.m3u` |
+| CCTV | `output/cctv.m3u` |
+| 卫视 | `output/weishi.m3u` |
+| 体育 | `output/sports.m3u` |
+| 影视 | `output/movies.m3u` |
+| 少儿动漫 | `output/kids.m3u` |
+| 新闻资讯 | `output/news.m3u` |
+| 音乐 | `output/music.m3u` |
+| 纪实科教 | `output/documentary.m3u` |
+| 港澳台 | `output/hmt.m3u` |
+| 日韩 | `output/japan_korea.m3u` |
+| 欧美 | `output/western.m3u` |
+| 地方台 | `output/local.m3u` |
+| 综合其他 | `output/others.m3u` |
+
+在播放器（如 PotPlayer、VLC、TiviMate）中直接添加上述 m3u 链接即可。
+
+## 工作原理
+
+1. **抓取**（`scripts/fetch.py`）：读取 `sources.txt` 中的上游订阅源，解析 m3u 并去重。
+2. **检测**（`scripts/check.py`）：40 并发逐条验证——仅 `http/https`、域名必须有 IPv4 解析（IPv6 直接丢弃）、HTTP 拉流超时 12 秒内能出数据、`.m3u8` 必须含 `#EXTM3U`。不满足的直接剔除。
+3. **分类**（`scripts/build.py`）：地区源（港澳台/日韩/欧美）的频道优先按来源归入地区分类，其余按频道名称关键词归入 14 个分类，生成带 `group-title` 的 m3u。
+4. **定时**：GitHub Actions 每天 21:00 UTC（北京时间 05:00）运行，检测通过后自动 commit 回本仓库。也可在 Actions 页面手动触发（workflow_dispatch）。
+
+## 上游来源
+
+- [iptv-org](https://github.com/iptv-org/iptv)（中国区、各题材分类及港澳台/日韩/欧美地区公开源）
+
+## 说明
+
+- 频道可用性每天都会变化，当日检测通过的不代表永久有效。
+- 仅收录 IPv4 可达的源；IPv6 源已被过滤。
+- 本项目仅做公开 m3u 源的聚合与可用性检测，不托管任何视频内容。
