@@ -21,6 +21,23 @@ SOURCE_REGION = {
     "uk.m3u": "欧美", "us.m3u": "欧美",
 }
 
+# tvg-id 国家码 -> 地区分类（tvg-id 形如 xxx.us@HD 时提取 us）
+TVG_COUNTRY_REGION = {
+    "hk": "港澳台", "mo": "港澳台", "tw": "港澳台",
+    "jp": "日韩", "kr": "日韩",
+    "us": "欧美", "uk": "欧美", "ca": "欧美",
+    "de": "欧美", "fr": "欧美", "it": "欧美", "es": "欧美",
+    "nl": "欧美", "se": "欧美", "no": "欧美", "dk": "欧美",
+    "fi": "欧美", "pt": "欧美", "ie": "欧美", "ch": "欧美",
+    "at": "欧美", "be": "欧美", "pl": "欧美", "gr": "欧美",
+    "cz": "欧美", "ro": "欧美", "hu": "欧美",
+}
+
+
+def country_from_tvgid(tvg_id):
+    m = re.search(r'\.([a-z]{2})@', (tvg_id or '').lower())
+    return m.group(1) if m else ''
+
 # (分类名, 文件名, 关键词) —— 按顺序匹配，命中即归入
 CATEGORIES = [
     ("CCTV", "cctv.m3u", ["cctv"]),
@@ -72,13 +89,17 @@ def merge_multi_source(channels):
     return merged
 
 
-def categorize(name, group, source=""):
+def categorize(name, group, source="", tvg_id=""):
     # 1) 地区源优先按来源文件归类
     if source:
         fname = source.rsplit("/", 1)[-1].lower()
         if fname in SOURCE_REGION:
             return SOURCE_REGION[fname]
-    # 2) 其余按名称关键词归类
+    # 2) tvg-id 国家码归类（如 index.m3u 全量源）
+    cc = country_from_tvgid(tvg_id)
+    if cc in TVG_COUNTRY_REGION:
+        return TVG_COUNTRY_REGION[cc]
+    # 3) 其余按名称关键词归类
     text = f"{name} {group}".lower()
     for cat, _, kws in CATEGORIES:
         for kw in kws:
@@ -101,7 +122,7 @@ def main():
         channels = json.load(f)
     buckets = {}
     for c in channels:
-        cat = categorize(c.get("name", ""), c.get("group", ""), c.get("source", ""))
+        cat = categorize(c.get("name", ""), c.get("group", ""), c.get("source", ""), c.get("tvg_id", ""))
         c["cat"] = cat
         buckets.setdefault(cat, []).append(c)
 
