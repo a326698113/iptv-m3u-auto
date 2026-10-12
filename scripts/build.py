@@ -1,1 +1,103 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiLmjInpopHpgZPlkI3np7DlhbPplK7or43liIbnsbvvvIznlJ/miJAgb3V0cHV0LyDkuIvnmoTliIbnsbsgbTN1IOaWh+S7tuOAggoK55So5rOVOiBweXRob24gc2NyaXB0cy9idWlsZC5weQrovpPlhaUgd29yay9jaGVja2VkLmpzb27vvIzovpPlh7ogb3V0cHV0L2FsbC5tM3Ug5Y+K5ZCE5YiG57G75paH5Lu2ICsgc3RhdHMuanNvbgoiIiIKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lLCB0aW1lem9uZSwgdGltZWRlbHRhCgpCQVNFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSkKV09SSyA9IG9zLnBhdGguam9pbihCQVNFLCAid29yayIpCk9VVCA9IG9zLnBhdGguam9pbihCQVNFLCAib3V0cHV0IikKb3MubWFrZWRpcnMoT1VULCBleGlzdF9vaz1UcnVlKQoKIyDlnLDljLrmupDmlofku7blkI0gLT4g5YiG57G777ya5Zyw5Yy65rqQ55qE6aKR6YGT5LyY5YWI5oyJ5p2l5rqQ5b2S5YWl5Zyw5Yy65YiG57G7ClNPVVJDRV9SRUdJT04gPSB7CiAgICAiaGsubTN1IjogIua4r+a+s+WPsCIsICJtby5tM3UiOiAi5riv5r6z5Y+wIiwgInR3Lm0zdSI6ICLmuK/mvrPlj7AiLAogICAgImpwLm0zdSI6ICLml6Xpn6kiLCAia3IubTN1IjogIuaXpemfqSIsCiAgICAidWsubTN1IjogIuasp+e+jiIsICJ1cy5tM3UiOiAi5qyn576OIiwKfQoKIyAo5YiG57G75ZCNLCDmlofku7blkI0sIOWFs+mUruivjSkg4oCU4oCUIOaMiemhuuW6j+WMuemFje+8jOWRveS4reWNs+W9kuWFpQpDQVRFR09SSUVTID0gWwogICAgKCJDQ1RWIiwgImNjdHYubTN1IiwgWyJjY3R2Il0pLAogICAgKCLljavop4YiLCAid2Vpc2hpLm0zdSIsIFsi5Y2r6KeGIl0pLAogICAgKCLkvZPogrIiLCAic3BvcnRzLm0zdSIsIFsi5L2T6IKyIiwgIui/kOWKqCIsICJzcG9ydHMiLCAiZXNwbiIsICLotrPnkIMiLCAi56+u55CDIiwgIue9keeQgyIsICJuYmEiLCAi6auY5bCU5aSrIiwgIui1m+i9piIsICLlgaXouqsiLCAi5q2m5pyvIiwgIuWPsOeQgyIsICLmo4vniYwiXSksCiAgICAoIuW9seinhiIsICJtb3ZpZXMubTN1IiwgWyLnlLXlvbEiLCAi5b2x6KeGIiwgIuWJp+WcuiIsICLnlLXop4bliaciLCAi5b2x6ZmiIiwgIm1vdmllIiwgImNpbmVtYSIsICJmaWxtIl0pLAogICAgKCLlsJHlhL/liqjmvKsiLCAia2lkcy5tM3UiLCBbIuWwkeWEvyIsICLljaHpgJoiLCAi5Yqo5ryrIiwgIuWKqOeUuyIsICJraWRzIiwgImNhcnRvb24iLCAiYW5pbWUiLCAi5Lqy5a2QIl0pLAogICAgKCLmlrDpl7votYTorq8iLCAibmV3cy5tM3UiLCBbIuaWsOmXuyIsICLotYTorq8iLCAibmV3cyIsICJjbm4iLCAiYmJjIiwgIm5oayIsICLljYrlspsiXSksCiAgICAoIumfs+S5kCIsICJtdXNpYy5tM3UiLCBbIumfs+S5kCIsICJtdXNpYyIsICJtdHYiLCAi5ryU5ZSx5LyaIiwgIm12Il0pLAogICAgKCLnuqrlrp7np5HmlZkiLCAiZG9jdW1lbnRhcnkubTN1IiwgWyLnuqrlrp4iLCAi56eR5pWZIiwgIuaOoue0oiIsICLlnLDnkIYiLCAi5Y6G5Y+yIiwgImRvY3VtZW50YXJ5IiwgImRpc2NvdmVyeSIsICJnZW9ncmFwaGljIiwgImFuaW1hbCIsICLnp5HmioAiXSksCiAgICAoIua4r+a+s+WPsCIsICJobXQubTN1IiwgWyLlh6Tlh7AiLCAicGhvZW5peCIsICJ0dmIiLCAi57+h57+gIiwgIuaYjuePoCIsICLmvrPop4YiLCAi6aaZ5rivIiwgIuWPsOa5viIsICLmvrPpl6giLCAiaGsgIiwgIiBydGhrIiwgIuaciee6vyIsICLkuK3lpKkiLCAi5Lic5qOuIiwgIuS4ieeriyIsICJub3ciXSksCiAgICAoIuaXpemfqSIsICJqYXBhbl9rb3JlYS5tM3UiLCBbIuaXpeacrCIsICLpn6nlm70iLCAibmhrIiwgImticyIsICJtYmMiLCAic2JzIiwgInR2biIsICJtbmV0IiwgImFyaXJhbmciLCAi5pyd5pelIiwgIuWvjOWjqyIsICJ0YnMiLCAid293b3ciLCAi6Z+p5YmnIiwgInRva3lvIG14Il0pLAogICAgKCLmrKfnvo4iLCAid2VzdGVybi5tM3UiLCBbImJiYyIsICJjbm4iLCAiZm94IiwgIm5iYyIsICJhYmMiLCAiY2JzIiwgInNreSIsICJpdHYiLCAiaGJvIiwgInNob3d0aW1lIiwgIue+juWbvSIsICLoi7Hlm70iLCAi5rOV5Zu9IiwgIuW+t+WbvSIsICLmhI/lpKfliKkiLCAi6KW/54+t54mZIiwgIuasp+a0siIsICJ1c2EiXSksCiAgICAoIuWcsOaWueWPsCIsICJsb2NhbC5tM3UiLCBbIuWMl+S6rCIsICLkuIrmtbciLCAi5bm/5LicIiwgIua3seWcsyIsICLlub/lt54iLCAi5rGf6IuPIiwgIua1meaxnyIsICLmuZbljZciLCAi5rmW5YyXIiwgIuWbm+W3nSIsICLlsbHkuJwiLCAi5rKz5Y2XIiwgIuemj+W7uiIsICLlronlvr0iLCAi5rGf6KW/IiwgIui+veWugSIsICLlkInmnpciLCAi6buR6b6Z5rGfIiwgIuays+WMlyIsICLlsbHopb8iLCAi6ZmV6KW/IiwgIueUmOiCgyIsICLpnZLmtbciLCAi5a6B5aSPIiwgIuaWsOeWhiIsICLopb/ol48iLCAi5LqR5Y2XIiwgIui0teW3niIsICLlub/opb8iLCAi5rW35Y2XIiwgIumHjeW6hiIsICLlpKnmtKUiLCAi5YaF6JKZ5Y+kIl0pLApdCgpPVEhFUiA9ICgi57u85ZCI5YW25LuWIiwgIm90aGVycy5tM3UiKQoKCmRlZiBjYXRlZ29yaXplKG5hbWUsIGdyb3VwLCBzb3VyY2U9IiIpOgogICAgIyAxKSDlnLDljLrmupDkvJjlhYjmjInmnaXmupDmlofku7blvZLnsbsKICAgIGlmIHNvdXJjZToKICAgICAgICBmbmFtZSA9IHNvdXJjZS5yc3BsaXQoIi8iLCAxKVstMV0ubG93ZXIoKQogICAgICAgIGlmIGZuYW1lIGluIFNPVVJDRV9SRUdJT046CiAgICAgICAgICAgIHJldHVybiBTT1VSQ0VfUkVHSU9OW2ZuYW1lXQogICAgIyAyKSDlhbbkvZnmjInlkI3np7DlhbPplK7or43lvZLnsbsKICAgIHRleHQgPSBmIntuYW1lfSB7Z3JvdXB9Ii5sb3dlcigpCiAgICBmb3IgY2F0LCBfLCBrd3MgaW4gQ0FURUdPUklFUzoKICAgICAgICBmb3Iga3cgaW4ga3dzOgogICAgICAgICAgICBpZiBrdy5sb3dlcigpIGluIHRleHQ6CiAgICAgICAgICAgICAgICByZXR1cm4gY2F0CiAgICByZXR1cm4gT1RIRVJbMF0KCgpkZWYgd3JpdGVfbTN1KHBhdGgsIGNoYW5uZWxzLCBncm91cF9uYW1lPU5vbmUpOgogICAgd2l0aCBvcGVuKHBhdGgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBmLndyaXRlKCIjRVhUTTNVXG4iKQogICAgICAgIGZvciBjIGluIGNoYW5uZWxzOgogICAgICAgICAgICBncnAgPSBncm91cF9uYW1lIG9yIGMuZ2V0KCJjYXQiLCAiIikKICAgICAgICAgICAgc2FmZV9uYW1lID0gY1sibmFtZSJdLnJlcGxhY2UoIiwiLCAi77yMIikucmVwbGFjZSgiXG4iLCAiICIpCiAgICAgICAgICAgIGYud3JpdGUoZicjRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSJ7Z3JwfSIse3NhZmVfbmFtZX1cbntjWyJ1cmwiXX1cbicpCgoKZGVmIG1haW4oKToKICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oV09SSywgImNoZWNrZWQuanNvbiIpLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGNoYW5uZWxzID0ganNvbi5sb2FkKGYpCiAgICBidWNrZXRzID0ge30KICAgIGZvciBjIGluIGNoYW5uZWxzOgogICAgICAgIGNhdCA9IGNhdGVnb3JpemUoYy5nZXQoIm5hbWUiLCAiIiksIGMuZ2V0KCJncm91cCIsICIiKSwgYy5nZXQoInNvdXJjZSIsICIiKSkKICAgICAgICBjWyJjYXQiXSA9IGNhdAogICAgICAgIGJ1Y2tldHMuc2V0ZGVmYXVsdChjYXQsIFtdKS5hcHBlbmQoYykKCiAgICBvcmRlciA9IFtjWzBdIGZvciBjIGluIENBVEVHT1JJRVNdICsgW09USEVSWzBdXQogICAgZm9yIGNhdCBpbiBvcmRlcjoKICAgICAgICBjaHMgPSBidWNrZXRzLmdldChjYXQsIFtdKQogICAgICAgIGlmIG5vdCBjaHM6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgZm5hbWUgPSBkaWN0KFsoY1swXSwgY1sxXSkgZm9yIGMgaW4gQ0FURUdPUklFU10gKyBbT1RIRVJdKVtjYXRdCiAgICAgICAgd3JpdGVfbTN1KG9zLnBhdGguam9pbihPVVQsIGZuYW1lKSwgY2hzLCBjYXQpCgogICAgIyDlhajph48KICAgIGFsbF9jaHMgPSBbYyBmb3IgY2F0IGluIG9yZGVyIGZvciBjIGluIGJ1Y2tldHMuZ2V0KGNhdCwgW10pXQogICAgd3JpdGVfbTN1KG9zLnBhdGguam9pbihPVVQsICJhbGwubTN1IiksIGFsbF9jaHMpCgogICAgYmogPSB0aW1lem9uZSh0aW1lZGVsdGEoaG91cnM9OCkpCiAgICBzdGF0cyA9IHsKICAgICAgICAidXBkYXRlZCI6IGRhdGV0aW1lLm5vdyhiaikuc3RyZnRpbWUoIiVZLSVtLSVkICVIOiVNIiksCiAgICAgICAgInRvdGFsIjogbGVuKGFsbF9jaHMpLAogICAgICAgICJjYXRlZ29yaWVzIjoge2NhdDogbGVuKGJ1Y2tldHMuZ2V0KGNhdCwgW10pKSBmb3IgY2F0IGluIG9yZGVyIGlmIGJ1Y2tldHMuZ2V0KGNhdCl9LAogICAgfQogICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihPVVQsICJzdGF0cy5qc29uIiksICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAoc3RhdHMsIGYsIGVuc3VyZV9hc2NpaT1GYWxzZSwgaW5kZW50PTIpCiAgICBwcmludChmIuWIhuexu+WujOaIkO+8muWFsSB7bGVuKGFsbF9jaHMpfSDmnaEiKQogICAgZm9yIGNhdCBpbiBvcmRlcjoKICAgICAgICBuID0gbGVuKGJ1Y2tldHMuZ2V0KGNhdCwgW10pKQogICAgICAgIGlmIG46CiAgICAgICAgICAgIHByaW50KGYiICB7Y2F0fToge259IOadoSIpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""按频道名称关键词分类，生成 output/ 下的分类 m3u 文件。
+
+用法: python scripts/build.py
+输入 work/checked.json，输出 output/all.m3u 及各分类文件 + stats.json
+"""
+import json
+import os
+from datetime import datetime, timezone, timedelta
+
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+WORK = os.path.join(BASE, "work")
+OUT = os.path.join(BASE, "output")
+os.makedirs(OUT, exist_ok=True)
+
+# 地区源文件名 -> 分类：地区源的频道优先按来源归入地区分类
+SOURCE_REGION = {
+    "hk.m3u": "港澳台", "mo.m3u": "港澳台", "tw.m3u": "港澳台",
+    "jp.m3u": "日韩", "kr.m3u": "日韩",
+    "uk.m3u": "欧美", "us.m3u": "欧美",
+}
+
+# (分类名, 文件名, 关键词) —— 按顺序匹配，命中即归入
+CATEGORIES = [
+    ("CCTV", "cctv.m3u", ["cctv"]),
+    ("卫视", "weishi.m3u", ["卫视"]),
+    ("体育", "sports.m3u", ["体育", "运动", "sports", "espn", "足球", "篮球", "网球", "nba", "高尔夫", "赛车", "健身", "武术", "台球", "棋牌"]),
+    ("影视", "movies.m3u", ["电影", "影视", "剧场", "电视剧", "影院", "movie", "cinema", "film"]),
+    ("少儿动漫", "kids.m3u", ["少儿", "卡通", "动漫", "动画", "kids", "cartoon", "anime", "亲子"]),
+    ("新闻资讯", "news.m3u", ["新闻", "资讯", "news", "cnn", "bbc", "nhk", "半岛"]),
+    ("音乐", "music.m3u", ["音乐", "music", "mtv", "演唱会", "mv"]),
+    ("纪实科教", "documentary.m3u", ["纪实", "科教", "探索", "地理", "历史", "documentary", "discovery", "geographic", "animal", "科技"]),
+    ("港澳台", "hmt.m3u", ["凤凰", "phoenix", "tvb", "翡翠", "明珠", "澳视", "香港", "台湾", "澳门", "hk ", " rthk", "有线", "中天", "东森", "三立", "now"]),
+    ("日韩", "japan_korea.m3u", ["日本", "韩国", "nhk", "kbs", "mbc", "sbs", "tvn", "mnet", "arirang", "朝日", "富士", "tbs", "wowow", "韩剧", "tokyo mx"]),
+    ("欧美", "western.m3u", ["bbc", "cnn", "fox", "nbc", "abc", "cbs", "sky", "itv", "hbo", "showtime", "美国", "英国", "法国", "德国", "意大利", "西班牙", "欧洲", "usa"]),
+    ("地方台", "local.m3u", ["北京", "上海", "广东", "深圳", "广州", "江苏", "浙江", "湖南", "湖北", "四川", "山东", "河南", "福建", "安徽", "江西", "辽宁", "吉林", "黑龙江", "河北", "山西", "陕西", "甘肃", "青海", "宁夏", "新疆", "西藏", "云南", "贵州", "广西", "海南", "重庆", "天津", "内蒙古"]),
+]
+
+OTHER = ("综合其他", "others.m3u")
+
+
+def categorize(name, group, source=""):
+    # 1) 地区源优先按来源文件归类
+    if source:
+        fname = source.rsplit("/", 1)[-1].lower()
+        if fname in SOURCE_REGION:
+            return SOURCE_REGION[fname]
+    # 2) 其余按名称关键词归类
+    text = f"{name} {group}".lower()
+    for cat, _, kws in CATEGORIES:
+        for kw in kws:
+            if kw.lower() in text:
+                return cat
+    return OTHER[0]
+
+
+def write_m3u(path, channels, group_name=None):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n")
+        for c in channels:
+            grp = group_name or c.get("cat", "")
+            safe_name = c["name"].replace(",", "，").replace("\n", " ")
+            f.write(f'#EXTINF:-1 group-title="{grp}",{safe_name}\n{c["url"]}\n')
+
+
+def main():
+    with open(os.path.join(WORK, "checked.json"), encoding="utf-8") as f:
+        channels = json.load(f)
+    buckets = {}
+    for c in channels:
+        cat = categorize(c.get("name", ""), c.get("group", ""), c.get("source", ""))
+        c["cat"] = cat
+        buckets.setdefault(cat, []).append(c)
+
+    order = [c[0] for c in CATEGORIES] + [OTHER[0]]
+    for cat in order:
+        chs = buckets.get(cat, [])
+        if not chs:
+            continue
+        fname = dict([(c[0], c[1]) for c in CATEGORIES] + [OTHER])[cat]
+        write_m3u(os.path.join(OUT, fname), chs, cat)
+
+    # 全量
+    all_chs = [c for cat in order for c in buckets.get(cat, [])]
+    write_m3u(os.path.join(OUT, "all.m3u"), all_chs)
+
+    bj = timezone(timedelta(hours=8))
+    stats = {
+        "updated": datetime.now(bj).strftime("%Y-%m-%d %H:%M"),
+        "total": len(all_chs),
+        "categories": {cat: len(buckets.get(cat, [])) for cat in order if buckets.get(cat)},
+    }
+    with open(os.path.join(OUT, "stats.json"), "w", encoding="utf-8") as f:
+        json.dump(stats, f, ensure_ascii=False, indent=2)
+    print(f"分类完成：共 {len(all_chs)} 条")
+    for cat in order:
+        n = len(buckets.get(cat, []))
+        if n:
+            print(f"  {cat}: {n} 条")
+
+
+if __name__ == "__main__":
+    main()
