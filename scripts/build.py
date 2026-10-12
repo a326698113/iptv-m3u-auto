@@ -6,6 +6,7 @@
 """
 import json
 import os
+import re
 from datetime import datetime, timezone, timedelta
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -37,6 +38,38 @@ CATEGORIES = [
 ]
 
 OTHER = ("综合其他", "others.m3u")
+
+# 需要合并"同频道多源"的分类：同一频道多条线路时输出 频道名、频道名 备用1、频道名 备用2…
+MULTI_SOURCE_CATS = {"CCTV"}
+
+
+def norm_name(name):
+    """归一化频道名，用于识别同一频道：去大小写/空格/分隔符/括号备注/清晰度词。"""
+    n = name.lower()
+    n = re.sub(r'[\(（].*?[\)）]', '', n)
+    n = re.sub(r'[\[【].*?[\]】]', '', n)
+    n = n.replace(' ', '').replace('-', '').replace('_', '')
+    n = n.replace('高清', '').replace('超清', '').replace('标清', '')
+    return n.strip()
+
+
+def merge_multi_source(channels):
+    """把同一频道的多个源合并，首个保留原名，其余加'备用N'后缀。"""
+    groups = {}
+    for c in channels:
+        key = norm_name(c.get("name", ""))
+        groups.setdefault(key, []).append(c)
+    merged = []
+    for key, g in groups.items():
+        if len(g) == 1:
+            merged.append(g[0])
+            continue
+        base = re.sub(r'\s*[\(\[（【].*?[\)\]）】]\s*', '', g[0]["name"]).strip()
+        for i, c in enumerate(g):
+            d = dict(c)
+            d["name"] = base if i == 0 else f"{base} 备用{i}"
+            merged.append(d)
+    return merged
 
 
 def categorize(name, group, source=""):
@@ -71,6 +104,11 @@ def main():
         cat = categorize(c.get("name", ""), c.get("group", ""), c.get("source", ""))
         c["cat"] = cat
         buckets.setdefault(cat, []).append(c)
+
+    # 同频道多源合并（如 CCTV 一个频道多条线路）
+    for cat in MULTI_SOURCE_CATS:
+        if buckets.get(cat):
+            buckets[cat] = merge_multi_source(buckets[cat])
 
     order = [c[0] for c in CATEGORIES] + [OTHER[0]]
     for cat in order:
