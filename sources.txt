@@ -15,3 +15,5 @@ https://iptv-org.github.io/iptv/countries/jp.m3u
 https://iptv-org.github.io/iptv/countries/kr.m3u
 https://iptv-org.github.io/iptv/countries/uk.m3u
 https://iptv-org.github.io/iptv/countries/us.m3u
+# CCTV/卫视多线路源（best-fan/iptv-sources，同一频道多条线路）
+https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
