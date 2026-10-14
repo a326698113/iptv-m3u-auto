@@ -3,10 +3,12 @@
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="音乐",4ever Music (1080p)
 http://stream.mcquack.net/257/index.m3u8
-#EXTINF:-1 group-title="音乐",9X Jhakaas (1080p)
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="音乐",9X Tashan (1080p)
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="音乐",9X Jalwa (1080p)
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 group-title="音乐",9X Jhakaas (1080p)
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="音乐",7S Music (576p)
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 #EXTINF:-1 group-title="音乐",8XM
@@ -17,12 +19,12 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="音乐",98.1 Pearl FM (720p)
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
-#EXTINF:-1 group-title="音乐",9X Jalwa (1080p)
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 group-title="音乐",¡Viva Latino! (1080p)
 http://stream.mcquack.net/285/index.m3u8
 #EXTINF:-1 group-title="音乐",Aaryaa TV (1080p)
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
+#EXTINF:-1 group-title="音乐",A2i Music (720p) [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1 group-title="音乐",AFN TV
@@ -35,6 +37,8 @@ https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8
 #EXTINF:-1 group-title="音乐",AlbKanale Music TV HD (1080p)
 https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 group-title="音乐",Allegro HD (1080p)
+http://158.172.155.130:8000/play/a0dn/index.m3u8
 #EXTINF:-1 group-title="音乐",Alcance FM PLAY TV
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 #EXTINF:-1 group-title="音乐",Andy Haryana (576p)
@@ -63,34 +67,38 @@ http://stream.mcquack.net/283/index.m3u8
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
 #EXTINF:-1 group-title="音乐",Boogle Bollywood (720p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="音乐",BOKTV (720p) [Not 24/7]
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
 #EXTINF:-1 group-title="音乐",BRIDGE (576p)
 http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1 group-title="音乐",BRIDGE Rock (576p)
-http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
-#EXTINF:-1 group-title="音乐",BRIDGE Deluxe HD (576p)
-http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="音乐",BRIDGE Classic (576p)
 http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 group-title="音乐",BRIDGE Deluxe HD (576p)
+http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="音乐",BRIDGE Hits (576p)
 http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="音乐",BRIDGE Rock (576p)
+http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 group-title="音乐",BTA TV (720p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 group-title="音乐",Buenisima Radio TV
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
-#EXTINF:-1 group-title="音乐",Canal 3 KMK TV (720p)
-https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
+#EXTINF:-1 group-title="音乐",Canal Womtv (720p)
+https://live.amelbatv.co:81/womtvlive/index.m3u8
 #EXTINF:-1 group-title="音乐",Chamame TV
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Chocolate FM (720p)
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
+#EXTINF:-1 group-title="音乐",City Eden Classic Music [Not 24/7]
+https://cityeden.catcast.tv/content/47400/index.m3u8
 #EXTINF:-1 group-title="音乐",City Eden Birma Play [Not 24/7]
 https://cityeden.catcast.tv/content/34364/index.m3u8
 #EXTINF:-1 group-title="音乐",City Eden Play [Not 24/7]
 https://cityeden.catcast.tv/content/34100/index.m3u8
-#EXTINF:-1 group-title="音乐",City Eden Sirtaki TV [Not 24/7]
-https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 group-title="音乐",City TV (Bulgaria) (576p) [Not 24/7]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1 group-title="音乐",City Eden Sirtaki TV [Not 24/7]
+https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1 group-title="音乐",Classic Music (1080p)
 http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1 group-title="音乐",Claro Musica TV (1080p)
@@ -109,16 +117,18 @@ https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 group-title="音乐",Dance FM (720p)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
-#EXTINF:-1 group-title="音乐",DanceTV Deep House District (1080p)
-https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 group-title="音乐",DanceTV Algorhythm (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 group-title="音乐",DanceTV Deep House District (1080p)
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 group-title="音乐",DanceTV House Floor (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
 #EXTINF:-1 group-title="音乐",DanceTV Techno Warehouse (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 group-title="音乐",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="音乐",Deewana HD (540p)
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 group-title="音乐",Dhamaal (576p)
 http://107.167.16.138/dhamaal/index.m3u8?token=test
 #EXTINF:-1 group-title="音乐",Dhool TV (576p)
@@ -131,26 +141,28 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 https://shift03.isp.bg/DMSat/index.m3u8
 #EXTINF:-1 group-title="音乐",DreamTV (1080p)
 https://xykt-fix.github.io/play/a02j/index.m3u8
-#EXTINF:-1 group-title="音乐",Dream Turk (720p)
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="音乐",DSTV (Bulgaria) (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="音乐",Dream Turk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 group-title="音乐",E40 (1080p)
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 group-title="音乐",El Radio 9090 FM (480p)
-https://9090video.mobtada.com/hls/stream.m3u8
 #EXTINF:-1 group-title="音乐",El Sol Network TV (1080p)
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-#EXTINF:-1 group-title="音乐",Epic Music (576p)
-https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 group-title="音乐",El Radio 9090 FM (480p)
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 group-title="音乐",EnerGeek Radio (720p) [Geo-blocked]
+https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 group-title="音乐",Epic Music Digital (1080p)
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Epic Music (576p)
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 group-title="音乐",EU Music (1080p)
 http://stream.mcquack.net/261/index.m3u8
-#EXTINF:-1 group-title="音乐",Europa Plus TV Belarus (576p)
-http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1 group-title="音乐",ETV Beats (1080p)
 https://jmp2.uk/stvp-IN4900002RV
+#EXTINF:-1 group-title="音乐",Europa Plus TV Belarus (576p)
+http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
 #EXTINF:-1 group-title="音乐",Exa TV
 http://190.61.90.17:40000/play/a0hk/index.m3u8
 #EXTINF:-1 group-title="音乐",Fairuz (1080p)
@@ -161,8 +173,6 @@ https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
 https://stream.farra.com.py/live/farra_low.m3u8
 #EXTINF:-1 group-title="音乐",First Music Channel (1080p)
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="音乐",Flex Studio Radio TV [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
 #EXTINF:-1 group-title="音乐",FM Mundo (1080p)
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 group-title="音乐",FM Plus TV (720p)
@@ -175,14 +185,14 @@ https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
 #EXTINF:-1 group-title="音乐",Fuego TV [Not 24/7]
 https://streamunoapp.com:3553/live/cromtvlive.m3u8
-#EXTINF:-1 group-title="音乐",Galactica TV
-https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
-#EXTINF:-1 group-title="音乐",FTV (Uzbekistan) (576p)
-https://stream8.cinerama.uz/1018/playlist.m3u8
 #EXTINF:-1 group-title="音乐",FUSION TV (1080p)
 https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
+#EXTINF:-1 group-title="音乐",Galactica TV
+https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
 #EXTINF:-1 group-title="音乐",Genial TV (720p)
 https://v1.tustreaming.cl/genialtv/index.m3u8
+#EXTINF:-1 group-title="音乐",Gex TV (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Happy Radio TV (1080p)
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 group-title="音乐",Heart Radio Aruba
@@ -197,8 +207,6 @@ https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f40
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
 #EXTINF:-1 group-title="音乐",Imagen FM 105.1 (720p) [Not 24/7]
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
-#EXTINF:-1 group-title="音乐",Infinita TV (1080p)
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 group-title="音乐",InRating TV (1080p)
 http://stream.mcquack.net/147/index.m3u8
 #EXTINF:-1 group-title="音乐",Insync (576p)
@@ -225,62 +233,62 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Song/playlist.m3u8
 https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 group-title="音乐",Kalika TV (576p)
 http://server.applelive.in/kalikatv/kalikatv.m3u8
-#EXTINF:-1 group-title="音乐",KandelaTV (480p)
-https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
+#EXTINF:-1 group-title="音乐",Karibena (720p)
+http://187.102.210.46/KARIBENA/index.m3u8
 #EXTINF:-1 group-title="音乐",Kayhan TV (720p)
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Klape i Tambure TV (1080p)
 https://stream.cmctv.hr:49998/kit/live.m3u8
 #EXTINF:-1 group-title="音乐",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="音乐",KpopTV Play (576p)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Kral Pop TV (720p)
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 group-title="音乐",La 100 (1080p)
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
 #EXTINF:-1 group-title="音乐",La Kalle (1080p)
 http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8
-#EXTINF:-1 group-title="音乐",La Morada Radio TV (720p)
-https://movil.ejeserver.com/live/lamoradatv.m3u8
-#EXTINF:-1 group-title="音乐",La Granja TV
-https://oracle.streaminghd.cl/8126/8126/playlist.m3u8
 #EXTINF:-1 group-title="音乐",La Fabulosa TV (720p)
 https://eu1.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="音乐",La Top 102.9 (720p)
 https://59d39900ebfb8.streamlock.net/top102/top102/playlist.m3u8
+#EXTINF:-1 group-title="音乐",La Clave (720p)
+https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",La Top 107.7 (720p)
 https://59d39900ebfb8.streamlock.net/top107/top107/playlist.m3u8
 #EXTINF:-1 group-title="音乐",La-X (720p)
 https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Lamore Rock Show WebTV (720p)
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 group-title="音乐",La Morada Radio TV (720p)
+https://movil.ejeserver.com/live/lamoradatv.m3u8
 #EXTINF:-1 group-title="音乐",Live99FM (1080p)
 https://media.streambrothers.com:1936/8014/8014/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Live Music Channel HD (1080p)
 http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
 #EXTINF:-1 group-title="音乐",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Los Angeles TV Radio
-https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Look Thoong TV (720p) [Not 24/7]
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Los Angeles TV Radio
+https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 #EXTINF:-1 group-title="音乐",LRT Opus (1080p)
 https://stream-live.lrt.lt/opus/master.m3u8
-#EXTINF:-1 group-title="音乐",LRT Klasika (1080p)
-https://stream-live.lrt.lt/klasika/master.m3u8
 #EXTINF:-1 group-title="音乐",Love TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-#EXTINF:-1 group-title="音乐",M1 (Ukraine) (1080p)
-http://stream.mcquack.net/218/index.m3u8
+#EXTINF:-1 group-title="音乐",LRT Klasika (1080p)
+https://stream-live.lrt.lt/klasika/master.m3u8
 #EXTINF:-1 group-title="音乐",M2 (Ukraine) (1080p)
 http://stream.mcquack.net/330/index.m3u8
+#EXTINF:-1 group-title="音乐",M1 (Ukraine) (1080p)
+http://stream.mcquack.net/218/index.m3u8
 #EXTINF:-1 group-title="音乐",M-1 (480p)
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Madras FM TV (1080p)
 https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 group-title="音乐",Magic TV (Bulgaria) (720p)
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1 group-title="音乐",Maimon TV Canal 3 (720p) [Not 24/7]
-https://tele-stream.telecasa.net/live/st3/maimontv-hd/index.m3u8
 #EXTINF:-1 group-title="音乐",Makao TV (1080i)
 https://live.obslivestream.com/makaomux/index.m3u8
 #EXTINF:-1 group-title="音乐",Maidan (720p)
@@ -289,22 +297,22 @@ https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Maqui TV
 https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Mas23 TV
-https://movil.ejeserver.com/live/mas23tv.m3u8
 #EXTINF:-1 group-title="音乐",Mas FM (720p)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1 group-title="音乐",MasMusica FM (720p)
-https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 group-title="音乐",Mastiii (576p)
 https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
 #EXTINF:-1 group-title="音乐",Mazzika (576p)
 http://149.100.11.235:8080/Mazzika/index.m3u8
-#EXTINF:-1 group-title="音乐",MBC Mood (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
 #EXTINF:-1 group-title="音乐",MBC FM (1080p)
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
+#EXTINF:-1 group-title="音乐",MBC Mood (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
 #EXTINF:-1 group-title="音乐",MBC Loud
 https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
+#EXTINF:-1 group-title="音乐",Mas23 TV
+https://movil.ejeserver.com/live/mas23tv.m3u8
+#EXTINF:-1 group-title="音乐",MasMusica FM (720p)
+https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 group-title="音乐",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 group-title="音乐",Megogo Music
@@ -337,22 +345,20 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 http://168.197.104.22/MUSIC/index.m3u8
 #EXTINF:-1 group-title="音乐",Muzangala TV (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Muz Soyuz (576p)
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Muz TV Uzbekistan
-https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="音乐",Music Information Channel (720p)
+https://mic.siar.us/mic/live/mic.m3u8
 #EXTINF:-1 group-title="音乐",Music India (576p)
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="音乐",Muz Soyuz (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Muzyka Live (576p)
 http://stream.mcquack.net/303/index.m3u8
 #EXTINF:-1 group-title="音乐",Muzyka Pervogo (576p)
 http://stream.mcquack.net/153/index.m3u8
-#EXTINF:-1 group-title="音乐",Music Information Channel (720p)
-https://mic.siar.us/mic/live/mic.m3u8
-#EXTINF:-1 group-title="音乐",Muzyka Kino [Not 24/7]
-https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="音乐",Muzyka 1 [Not 24/7]
 https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="音乐",Muzyka Kino [Not 24/7]
+https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 group-title="音乐",Muzvar (1080p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 #EXTINF:-1 group-title="音乐",NASHE Music (720p)
@@ -365,14 +371,14 @@ https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 https://media.noroc.tv/noroc/bitrate_1080p.m3u8
 #EXTINF:-1 group-title="音乐",Nueva Vida FM (720p)
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
-#EXTINF:-1 group-title="音乐",Number 1 Damar (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Number 1 TV (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Number 1 Dance (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 group-title="音乐",One TV (720p) [Not 24/7]
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 group-title="音乐",OneFM (720p) [Not 24/7]
@@ -383,10 +389,10 @@ https://cdn.pishow.tv/ott/live/1499/master.m3u8
 https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 #EXTINF:-1 group-title="音乐",Parranda Vallenata (720p)
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
-#EXTINF:-1 group-title="音乐",Patagonia Radio TV (720p)
-https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Pauta (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Patagonia Radio TV (720p)
+https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Peniel Musical (480p)
 https://s.emisoras.tv:8081/penielmusical/index.m3u8
 #EXTINF:-1 group-title="音乐",Peppers TV (751p)
@@ -405,96 +411,106 @@ https://pmcrohls.wns.live/hls/stream.m3u8
 https://vcp11.myplaytv.com/powerfm/powerfm/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Power Hit Radio (576p)
 https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
-#EXTINF:-1 group-title="音乐",PowerTurk Akustik (1080p)
-https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",PowerTurk Slow (1080p)
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 group-title="音乐",PowerTurk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Power Love (1080p)
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="音乐",PowerTurk Taptaze (1080p)
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Power Dance (1080p)
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="音乐",PTC Chakde (720p)
-https://cdn.pishow.tv/ott/live/449/master.m3u8
+#EXTINF:-1 group-title="音乐",PowerTurk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",PTC Music (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 group-title="音乐",PTC Chakde (720p)
+https://cdn.pishow.tv/ott/live/449/master.m3u8
 #EXTINF:-1 group-title="音乐",Punjabi Hits (1080p)
 https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 group-title="音乐",Public Music (576p)
 https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
+#EXTINF:-1 group-title="音乐",Quiero Musica en mi Idioma (1080p)
+http://158.172.155.130:8000/play/a00a/index.m3u8
 #EXTINF:-1 group-title="音乐",Rabeh Saqer (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Radio Chalaca
-https://servilive.com:3414/hybrid/play.m3u8
-#EXTINF:-1 group-title="音乐",Radio Clasica TV (720p)
-https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Radio Colmenar 92.5 FM
+https://tvdatta.com:3041/live/colmenarlive.m3u8
 #EXTINF:-1 group-title="音乐",Radio Duna (720p)
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:-1 group-title="音乐",Radio Edelweiss (720p)
-https://vmix.dyndns.biz/Edelweiss/index.m3u8
+#EXTINF:-1 group-title="音乐",Radio Chalaca
+https://servilive.com:3414/hybrid/play.m3u8
 #EXTINF:-1 group-title="音乐",Radio Bonita 106.7 (720p)
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
+#EXTINF:-1 group-title="音乐",Radio Clasica TV (720p)
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Radio Edelweiss (720p)
+https://vmix.dyndns.biz/Edelweiss/index.m3u8
 #EXTINF:-1 group-title="音乐",Radio Fantastica 98.9 FM (1080p)
 http://190.107.232.9:8082/livestream/stream.m3u8
 #EXTINF:-1 group-title="音乐",Radio Cuenca Estereo (720p)
 https://eu1.servers10.com:8081/8074/index.m3u8
-#EXTINF:-1 group-title="音乐",Radio Conexion Web TV (720p)
-https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 #EXTINF:-1 group-title="音乐",Radio Chisinau (576p)
 https://radiochisinau.md/hls/RChisinau.m3u8
-#EXTINF:-1 group-title="音乐",Radio Ideal (720p) [Not 24/7]
-https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:-1 group-title="音乐",Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 group-title="音乐",Radio Conexion Web TV (720p)
+https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
 #EXTINF:-1 group-title="音乐",Radio Karolina TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
-#EXTINF:-1 group-title="音乐",Radio Lola TV (720p) [Not 24/7]
-https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 #EXTINF:-1 group-title="音乐",Radio Master (720p)
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
+#EXTINF:-1 group-title="音乐",Radio Lola TV (720p) [Not 24/7]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
 #EXTINF:-1 group-title="音乐",Radio Monumental TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
-#EXTINF:-1 group-title="音乐",Radio Moldova Muzical
-https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 #EXTINF:-1 group-title="音乐",Radio La Serena TV (720p)
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Radio Realpolitik (720p)
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:-1 group-title="音乐",Radio Moldova Muzical
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
 #EXTINF:-1 group-title="音乐",Radio Rumba TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Radio Pudahuel (720p)
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Radio San Cristobal 88.7 FM
-https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
+#EXTINF:-1 group-title="音乐",Radio Suyai TV (1080p)
+https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 group-title="音乐",Radio SWH TV (1080p)
 https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Radio Tele Hit (480p)
 https://59d39900ebfb8.streamlock.net/RadioTelehit/RadioTelehit/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Radio Shanson (720p) [Not 24/7]
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1 group-title="音乐",Radio San Cristobal 88.7 FM
+https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
 #EXTINF:-1 group-title="音乐",Radio Tropical (480p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 group-title="音乐",Radio Ideal (720p) [Not 24/7]
+https://www.idealfm104-7.com/hls/0/stream.m3u8
+#EXTINF:-1 group-title="音乐",Radio Shanson (720p) [Not 24/7]
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 group-title="音乐",Radiola TV (1080p)
 http://158.172.217.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 group-title="音乐",Radio Zona 90.3 (720p)
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
 #EXTINF:-1 group-title="音乐",Raj Musix Malayalam (576p)
 https://cdn.pishow.tv/ott/live/1073/master.m3u8
-#EXTINF:-1 group-title="音乐",Raj Musix Kannada (576p)
-https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 group-title="音乐",Raj Musix Telugu (720p)
 https://cdn.pishow.tv/ott/live/1213/master.m3u8
+#EXTINF:-1 group-title="音乐",Raj Musix Kannada (576p)
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 group-title="音乐",Raj Musix Tamil (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
 #EXTINF:-1 group-title="音乐",Rashid AlMajed (1080p)
 https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/index.m3u8
+#EXTINF:-1 group-title="音乐",Retro Plus 2 (1080p)
+http://181.119.97.124:8080/play/a00n/index.m3u8
+#EXTINF:-1 group-title="音乐",Retro Plus (1080p)
+http://181.119.97.124:8080/play/a00t/index.m3u8
 #EXTINF:-1 group-title="音乐",Retromusica Television (720p)
 https://vdochile.com:3864/stream/play.m3u8
-#EXTINF:-1 group-title="音乐",Rewind TV (1080p)
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Reyali (614p)
 https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 group-title="音乐",Rewind TV (1080p)
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 group-title="音乐",RHT Guadeloupe (720p)
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 #EXTINF:-1 group-title="音乐",Ritoque TV (720p)
@@ -507,6 +523,8 @@ https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
 #EXTINF:-1 group-title="音乐",RU.TV (1080p)
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
+#EXTINF:-1 group-title="音乐",Rumba TV
+http://186.148.196.100:8000/play/a02h
 #EXTINF:-1 group-title="音乐",Russian MusicBox (576p)
 http://stream.mcquack.net/319/index.m3u8
 #EXTINF:-1 group-title="音乐",RumbaMix TV (720p)
@@ -531,8 +549,8 @@ https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 http://catchup.videoline.ru/shanson/index.m3u8
 #EXTINF:-1 group-title="音乐",ShowVen TV (720p)
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
-#EXTINF:-1 group-title="音乐",Sin Limites (1080p)
-http://170.244.209.30:8000/play/a1im/index.m3u8
+#EXTINF:-1 group-title="音乐",Siembra TV (Dominican Republic) (720p)
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
 #EXTINF:-1 group-title="音乐",Sky Folk TV (720p) [Not 24/7]
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 group-title="音乐",SMTV (720p)
@@ -541,8 +559,6 @@ https://e.siar.us/live/smtv.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 group-title="音乐",SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-#EXTINF:-1 group-title="音乐",SOY Plancha TV (720p)
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Star 101 FM [Not 24/7]
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
 #EXTINF:-1 group-title="音乐",Steelbird Music (720p) [Not 24/7]
@@ -569,10 +585,10 @@ https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Tele Zoukla
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
-#EXTINF:-1 group-title="音乐",TeleHit (1080p)
-http://190.61.47.54:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="音乐",Telehit Musica (1080p)
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
+#EXTINF:-1 group-title="音乐",TeleHit (1080p)
+http://190.61.47.54:8000/play/a029/index.m3u8
 #EXTINF:-1 group-title="音乐",Tezaur TV (576i)
 https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 group-title="音乐",The Cabbin FM
@@ -591,10 +607,12 @@ https://hls-1zdhtxpm-livepush.akamaized.net/live_cdn/nsM12Xw0C1xXdJ/em0Wx71z-ec6
 http://hls.tmacaraibes.com/live/index.m3u8
 #EXTINF:-1 group-title="音乐",Today Radio (720p)
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
-#EXTINF:-1 group-title="音乐",TopEstrada TV (720p)
-http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Topical Moon RD (720p) [Not 24/7]
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/30.m3u8
+#EXTINF:-1 group-title="音乐",TopEstrada TV (720p)
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 group-title="音乐",Tropical Moon Urban TV [Not 24/7]
+https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
 #EXTINF:-1 group-title="音乐",Tropi Q 99.7 FM (1080p)
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
 #EXTINF:-1 group-title="音乐",TRT Muzik (720p)
@@ -627,22 +645,22 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8
 #EXTINF:-1 group-title="音乐",V Classic TV (720p)
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Venus Media (1080p)
-https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Vantage Music UK (1080p) [Geo-blocked]
 https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 group-title="音乐",Vantage Rock (720p) [Geo-blocked]
 https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1 group-title="音乐",Venus Media (1080p)
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Video Tour Channel
 https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
-#EXTINF:-1 group-title="音乐",Vintage Music (720p)
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Vijay Takkar APAC (1080p)
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+#EXTINF:-1 group-title="音乐",Vintage Music (720p)
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 group-title="音乐",Vision Television (720p)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 group-title="音乐",VM Latino (720p) [Not 24/7]
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 group-title="音乐",VM Latino (1080p)
+http://45.163.139.42:8000/play/a03d/index.m3u8
 #EXTINF:-1 group-title="音乐",VoiceOver Radio TV (720p)
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 group-title="音乐",Vos y TV (720p) [Not 24/7]
@@ -659,6 +677,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8
 #EXTINF:-1 group-title="音乐",ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 group-title="音乐",ZICO TV (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1 group-title="音乐",Zing! (576p)
 http://107.167.16.138/zing/index.m3u8?token=test
 #EXTINF:-1 group-title="音乐",Zoom (India) (720p)

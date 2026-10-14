@@ -3,6 +3,8 @@
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Animal Planet (Russia) (1080p)
 http://stream.mcquack.net/114/index.m3u8
+#EXTINF:-1 group-title="纪实科教",Animal Planet (India) HD (720p)
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Arsenal (576p)
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="纪实科教",Asharq Discovery (1080p)
@@ -13,10 +15,10 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="纪实科教",Ch4Teen Documentary (1080p)
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1 group-title="纪实科教",China Travel (1080p)
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Chemodan TV (1080p)
 http://stream.mcquack.net/399/index.m3u8
+#EXTINF:-1 group-title="纪实科教",China Travel (1080p)
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 group-title="纪实科教",City Eden KinoDok [Not 24/7]
 https://cityeden.catcast.tv/content/38354/index.m3u8
 #EXTINF:-1 group-title="纪实科教",ClickTV Chile (720p)
@@ -29,8 +31,6 @@ https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="纪实科教",DocuBay TV (1080p)
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
-#EXTINF:-1 group-title="纪实科教",Ecovision (720p)
-https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1 group-title="纪实科教",Epic Crimes (1080p)
 https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
 #EXTINF:-1 group-title="纪实科教",History (Brazil) (720p)
@@ -73,15 +73,15 @@ https://edge.enhdtv.com/8026/index.m3u8
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Viasat History (Bulgaria) (1080p)
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-#EXTINF:-1 group-title="纪实科教",viju History (576p)
-http://178.124.179.122:8080/HistoryHD/index.m3u8
-#EXTINF:-1 group-title="纪实科教",viju Explore (576p)
-http://stream.mcquack.net/239/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Viasat Nature (Bulgaria) (1080p)
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
-#EXTINF:-1 group-title="纪实科教",viju+ Planet HD (1080p)
-http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 group-title="纪实科教",viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="纪实科教",viju History (576p)
+http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 group-title="纪实科教",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="纪实科教",viju+ Planet HD (1080p)
+http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="纪实科教",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
