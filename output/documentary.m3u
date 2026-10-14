@@ -3,22 +3,24 @@
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Animal Planet (Russia) (1080p)
 http://stream.mcquack.net/114/index.m3u8
-#EXTINF:-1 group-title="纪实科教",Asharq Discovery (1080p)
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="纪实科教",Arsenal (576p)
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="纪实科教",Asharq Discovery (1080p)
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="纪实科教",Asharq Documentary (1080p)
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="纪实科教",CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="纪实科教",Ch4Teen Documentary (1080p)
 https://ch14.tv/live/ch4teendoc/playlist.m3u8
-#EXTINF:-1 group-title="纪实科教",Chemodan TV (1080p)
-http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 group-title="纪实科教",China Travel (1080p)
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 group-title="纪实科教",Chemodan TV (1080p)
+http://stream.mcquack.net/399/index.m3u8
 #EXTINF:-1 group-title="纪实科教",City Eden KinoDok [Not 24/7]
 https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1 group-title="纪实科教",ClickTV Chile (720p)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 group-title="纪实科教",CNA Originals (1080p)
 https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="纪实科教",Discovering China (1080p)
@@ -41,16 +43,12 @@ https://webtvstream.bhtelecom.ba/hrt3.m3u8
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Karbala Documentary
 https://ktvlive.online/stream/hls/ch3.m3u8
-#EXTINF:-1 group-title="纪实科教",MRTV Farmer
-https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 group-title="纪实科教",MWD Documentary [Geo-blocked]
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Nano (576p)
 http://stream.mcquack.net/419/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Nano HD (1080p)
 http://185.23.80.23:8080/NANO_HD/index.m3u8
-#EXTINF:-1 group-title="纪实科教",National Geographic (Croatia) (1080p)
-http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="纪实科教",National Geographic (Mexico) (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 group-title="纪实科教",National Geographic (India) HD (1080p)
@@ -61,10 +59,10 @@ http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8
 https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="纪实科教",RL PRO TV
 https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
-#EXTINF:-1 group-title="纪实科教",RT Documentary Russian (1080p)
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 group-title="纪实科教",RT Documentary (1080p) [Geo-blocked]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="纪实科教",RT Documentary Russian (1080p)
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 group-title="纪实科教",Safari TV (576p)
 https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Smotrim 100% Fakty (720p)
@@ -75,17 +73,15 @@ https://edge.enhdtv.com/8026/index.m3u8
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
 #EXTINF:-1 group-title="纪实科教",Viasat History (Bulgaria) (1080p)
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
-#EXTINF:-1 group-title="纪实科教",Viasat Nature (Bulgaria) (1080p)
-https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 group-title="纪实科教",viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 group-title="纪实科教",viju Explore (576p)
 http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 group-title="纪实科教",Viasat Nature (Bulgaria) (1080p)
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 group-title="纪实科教",viju+ Planet HD (1080p)
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="纪实科教",viju Nature (576p)
 https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="纪实科教",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
-#EXTINF:-1 group-title="纪实科教",世界地理
-http://183.10.180.46:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
