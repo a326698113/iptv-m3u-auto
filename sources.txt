@@ -1,25 +1,5 @@
-# 上游 m3u 订阅源（每天北京时间 05:00 自动抓取）
+# 上游 m3u 订阅源（每天北京时间 04:00 自动抓取）——已精简为 CCTV 专用
 # 以 # 开头的行为注释
-# 全量源（iptv-org 全部收录，约11000条）
-https://iptv-org.github.io/iptv/index.m3u
-https://iptv-org.github.io/iptv/countries/cn.m3u
-https://iptv-org.github.io/iptv/categories/sports.m3u
-https://iptv-org.github.io/iptv/categories/movies.m3u
-https://iptv-org.github.io/iptv/categories/news.m3u
-https://iptv-org.github.io/iptv/categories/kids.m3u
-https://iptv-org.github.io/iptv/categories/documentary.m3u
-https://iptv-org.github.io/iptv/categories/music.m3u
-# 地区源（按国家/地区文件拉取）
-https://iptv-org.github.io/iptv/countries/hk.m3u
-https://iptv-org.github.io/iptv/countries/mo.m3u
-https://iptv-org.github.io/iptv/countries/tw.m3u
-https://iptv-org.github.io/iptv/countries/jp.m3u
-https://iptv-org.github.io/iptv/countries/kr.m3u
-https://iptv-org.github.io/iptv/countries/uk.m3u
-https://iptv-org.github.io/iptv/countries/us.m3u
-# CCTV/卫视多线路源（best-fan/iptv-sources，同一频道多条线路）
+# CCTV 多线路源（best-fan/iptv-sources，同一频道多条线路）
 https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_all.m3u8
 https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_cctv.m3u8
-https://raw.githubusercontent.com/best-fan/iptv-sources/main/cn_province.m3u8
-# 移动源（BurningC4/Chinese-IPTV，中国移动 IPv4）
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
