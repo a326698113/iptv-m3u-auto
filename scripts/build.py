@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""按频道名称关键词分类，生成 output/ 下的分类 m3u 文件。
+"""CCTV 专用：按频道名称关键词过滤出 CCTV 频道，生成 output/cctv.m3u。
 
 用法: python scripts/build.py
-输入 work/checked.json，输出 output/all.m3u 及各分类文件 + stats.json
+输入 work/checked.json，输出 output/cctv.m3u、output/all.m3u（与 cctv.m3u 相同）+ stats.json
 """
 import json
 import os
@@ -120,42 +120,30 @@ def write_m3u(path, channels, group_name=None):
 def main():
     with open(os.path.join(WORK, "checked.json"), encoding="utf-8") as f:
         channels = json.load(f)
-    buckets = {}
+    # 精简：只保留 CCTV 频道
+    cctv = []
     for c in channels:
         cat = categorize(c.get("name", ""), c.get("group", ""), c.get("source", ""), c.get("tvg_id", ""))
-        c["cat"] = cat
-        buckets.setdefault(cat, []).append(c)
-
-    # 同频道多源合并（如 CCTV 一个频道多条线路）
-    for cat in MULTI_SOURCE_CATS:
-        if buckets.get(cat):
-            buckets[cat] = merge_multi_source(buckets[cat])
-
-    order = [c[0] for c in CATEGORIES] + [OTHER[0]]
-    for cat in order:
-        chs = buckets.get(cat, [])
-        if not chs:
+        if cat != "CCTV":
             continue
-        fname = dict([(c[0], c[1]) for c in CATEGORIES] + [OTHER])[cat]
-        write_m3u(os.path.join(OUT, fname), chs, cat)
+        c["cat"] = cat
+        cctv.append(c)
 
-    # 全量
-    all_chs = [c for cat in order for c in buckets.get(cat, [])]
-    write_m3u(os.path.join(OUT, "all.m3u"), all_chs)
+    # 同频道多源合并（一个频道多条线路时输出 频道名、频道名 备用1、…）
+    cctv = merge_multi_source(cctv)
+
+    write_m3u(os.path.join(OUT, "cctv.m3u"), cctv, "CCTV")
+    write_m3u(os.path.join(OUT, "all.m3u"), cctv, "CCTV")
 
     bj = timezone(timedelta(hours=8))
     stats = {
         "updated": datetime.now(bj).strftime("%Y-%m-%d %H:%M"),
-        "total": len(all_chs),
-        "categories": {cat: len(buckets.get(cat, [])) for cat in order if buckets.get(cat)},
+        "total": len(cctv),
+        "categories": {"CCTV": len(cctv)},
     }
     with open(os.path.join(OUT, "stats.json"), "w", encoding="utf-8") as f:
         json.dump(stats, f, ensure_ascii=False, indent=2)
-    print(f"分类完成：共 {len(all_chs)} 条")
-    for cat in order:
-        n = len(buckets.get(cat, []))
-        if n:
-            print(f"  {cat}: {n} 条")
+    print(f"分类完成：CCTV 共 {len(cctv)} 条")
 
 
 if __name__ == "__main__":
